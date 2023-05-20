@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Souravdey777/Souravdey777/master/Card.png" width="100%" title="Intro Card" alt="Intro Card">
+  <img src="https://github.com/sumandas0404/sumandas0404/blob/main/Black%20and%20Red%20Gradient%20Professional%20LinkedIn%20Banner.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
 I am a Full-stack Web Developer who is exploring Blockchain :cloud: while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about ML. :wink:
