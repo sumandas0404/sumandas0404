@@ -11,7 +11,7 @@ I am a Full-stack Web Developer having knowledge of MERN Stack and also a CPP Co
  
  🎓 Engineering in Electronics & Communication Engineering (ECE).
  
- 🌱 I’m currently learning <img src="https://icons8.com/icon/33039/amazon-web-services"> AWS Services
+ 🌱 I’m currently learning <img src="[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)"> AWS Services
  
  :books: I want to learn <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"> and <img src="http://img.shields.io/badge/-Deno-black?style=flat&logo=deno&logoColor=white"/>
  
