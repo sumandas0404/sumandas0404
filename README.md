@@ -6,11 +6,12 @@
   <img src="https://github.com/sumandas0404/sumandas0404/blob/main/Black%20and%20Red%20Gradient%20Professional%20LinkedIn%20Banner.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
-I am a Full-stack Web Developer who is exploring Blockchain :cloud: while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about ML. :wink:
+I am a Full-stack Web Developer having knowledge of MERN Stack and also a CPP Coder.
+ 🏫 National Institute of Technology Silchar, Assam, India.
  
- 🔭 I’m planning for a Project **Vision: ML-based System for Blinds**.
+ 🎓 Engineering in Electronics & Communication Engineering (ECE).
  
- 🌱 I’m currently learning <img src="http://img.shields.io/badge/-4285F4?style=flat&logo=google%20cloud&logoColor=white"> Google Cloud Platform
+ 🌱 I’m currently learning <img src="https://icons8.com/icon/33039/amazon-web-services"> AWS Services
  
  :books: I want to learn <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"> and <img src="http://img.shields.io/badge/-Deno-black?style=flat&logo=deno&logoColor=white"/>
  
