@@ -19,19 +19,12 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/suman-das-82480a224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suman das" height="30" width="40" /></a>
-  
 <a href="https://stackoverflow.com/users/22014497/sumon-das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22014497/sumon-das" height="30" width="40" /></a>
-  
 <a href="https://www.facebook.com/profile.php?id=100075867442618" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100075867442618" height="30" width="40" /></a>
-  
 <a href="https://instagram.com/sumondas0404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sumondas0404" height="30" width="40" /></a>
-  
 <a href="https://www.youtube.com/channel/uc2myuwkspyzc2ystufy23dq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc2myuwkspyzc2ystufy23dq" height="30" width="40" /></a>
-  
 <a href="https://www.codechef.com/users/sumandas_0404" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/sumandas_0404" height="30" width="40" /></a>
-  
 <a href="https://leetcode.com/sumandas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/sumandas/" height="30" width="40" /></a>
-  
 <a href="https://auth.geeksforgeeks.org/user/sumondas0404/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/sumondas0404/practice" height="30" width="40" /></a>
 </p>
 
