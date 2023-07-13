@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumandas0404&label=Profile%20views&color=0e75b6&style=flat" alt="jaiswaladi246" /> </p>
 
-- 🔭 I’m currently working in [CDAC, Silchar as a Software developer INTERN](https://github.com/orgs/scraponics/repositories)
+- 🔭 Former Software developer Intern @ CDAC NIT- SILCHAR (https://github.com/orgs/scraponics/repositories)
 
 - 🌱 I’m currently Mastering **MERN Stack skills**
 
