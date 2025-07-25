@@ -1,54 +1,49 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+
 <h1 align="center">Hi 👋, I'm Suman Das</h1>
-Welcome to my coding sanctuary! 🚀 I'm an enthusiastic full-stack developer with a passion for turning innovative ideas into sleek and functional applications. My journey encompasses a fusion of creativity and logic, backed by solid experience in various tech stacks.
+
+🚀 I'm a Software Engineer (SDE-1) at **Amadeus**, Bangalore, building travel technology solutions that power real-world airline and hospitality ecosystems at global scale. I specialize in full-stack development, system integration, and delivering scalable backend services that directly impact millions of travelers around the world.
+
+---
+
+### 💼 Professional Snapshot
+
+- 🧠 **Software Engineer @ Amadeus**  
+  Working with the **SIT Delivery team** to ensure seamless system integrations and product reliability for global airline clients, supporting mission-critical travel infrastructure.
+
+- 🛠️ **Tech Stack:**  
+  JavaScript | TypeScript | React | Node.js | MongoDB | Express | Python | REST APIs | Postman | Git | SQL | CI/CD | Agile  
+
+- 🌍 **Real-World Impact:**  
+  The systems I work on at Amadeus help airlines deliver smooth operations, optimize schedules, and ensure reliable travel experiences across continents.
+
+---
 
 ### 🎓 Academic Journey
-- **Currently Pursuing:** B.TECH in Electronics and Communication Engineering at [NIT Silchar]
-- **Expected Graduation:** May 2025
 
-### 💻 Tech I Love
-- **MERN Stack Maestro:** Crafting immersive web experiences using MongoDB, Express.js, React, and Node.js.
-- **Internship:** Former Software developer Intern @ CDAC NIT- SILCHAR (https://github.com/orgs/scraponics/repositories)
-- **Web Scraping Artisan:** Transforming the chaos of the web into organized data, one scrape at a time.
-- **Contact me:** How to reach me **sumondas0404@gmail.com**
+- **B.Tech in Electronics & Communication Engineering**, NIT Silchar  
+  Graduated with a CGPA of **8.48** from one of India’s top engineering institutes.  
+  Former intern at **CDAC**, Silchar — worked on real-time scraping & automation platforms ([View Project](https://github.com/orgs/scraponics/repositories)).
 
+---
 
-<div> <a href="https://www.linkedin.com/in/suman-das-82480a224/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/sumandas0404" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href="https://www.instagram.com/suman_png/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:sumondas0404@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/suman-das-82480a224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suman das" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/22014497/sumon-das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22014497/sumon-das" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100075867442618" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100075867442618" height="30" width="40" /></a>
-<a href="https://www.instagram.com/suman_png/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sumondas0404" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/uc2myuwkspyzc2ystufy23dq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc2myuwkspyzc2ystufy23dq" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sumandas_0404" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/sumandas_0404" height="30" width="40" /></a>
-<a href="https://leetcode.com/sumandas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/sumandas/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/sumondas0404/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/sumondas0404/practice" height="30" width="40" /></a>
-</p>
+### 🏆 Highlights
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+- 🔁 **Full Stack Developer** with projects ranging from dynamic web dashboards to data-driven APIs
+- 🧩 **100+ day LeetCode streak** — passionate about problem-solving & competitive programming
+- 🏆 **Hackathon Finalist** and active tech community participant
+- 📷 **Board Member** of _Obiettivo_, the Photography Club of NIT Silchar
+- 🌐 **Web Scraping Artisan** — transforming messy data into structured assets
 
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumandas0404&langs_count=8&theme=dark" alt=sumandas0404 />
+---
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=sumandas0404&show_icons=true&locale=en&theme=dark" alt="sumandas0404" /></p>
+### 📫 Let's Connect
+**Email**: sumondas0404@gmail.com  
+<a href="https://www.linkedin.com/in/suman-das-82480a224/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://github.com/sumandas0404" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://www.instagram.com/suman_png/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sumandas0404&theme=highcontrast" alt="sumandas0404" /></p>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
-<div align="center">
-<a href="https://github.com/sumandas0404">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sumandas0404&theme=date_night" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sumandas0404&theme=city_lights" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sumandas0404&theme=codeSTACKr" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sumandas0404&theme=date_night" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sumandas0404&theme=ayu_mirage" height="180em" />
-</div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=sumandas0404&theme=monokai"/>
+<!-- Keep rest of your stats and visuals below this -->
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
